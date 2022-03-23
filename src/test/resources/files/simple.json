@@ -1,0 +1,10 @@
+{
+  "device": "phone",
+  "vendor": "xiaomi",
+  "model": ["mi8", "mi8pro"],
+  "soft": {
+    "system": "sms",
+    "game": "lines",
+    "photo": "GCam"
+  }
+}
